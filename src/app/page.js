@@ -20,6 +20,9 @@ export default function Home() {
           <li>Save and see your changes instantly.</li>
         </ol>
 
+        <button>hii</button>
+        <button>byee</button>
+
         <div className={styles.ctas}>
           <a
             className={styles.primary}
